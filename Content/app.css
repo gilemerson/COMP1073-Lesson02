@@ -1,1 +1,4 @@
 /*Custom CSS*/
+
+/*Fixed to bottom footer*/
+body { padding-bottom: 70px; }
